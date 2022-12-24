@@ -4,4 +4,4 @@
 3. Masukan perintah "npm install"
 4. Jalankan aplikasi backend terlebih dahulu
 5. Lalu jalankan perintah "npm start"
-6. Bisa dimasukan 1 folder dengan aplikasi fronted dengan folder TableElectricVehiclePopulation(optional)
+6. Bisa dimasukan 1 folder dengan aplikasi backend dengan folder TableElectricVehiclePopulation(optional)
